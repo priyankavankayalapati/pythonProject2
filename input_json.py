@@ -1,4 +1,4 @@
-[
+print([
     {
         "Name": "Priya",
         "age" : 23,
@@ -9,5 +9,5 @@
         "Name": "Raji",
         "age" : 22,
         "birth year":2000
-    }
-]
+    },
+    ])
