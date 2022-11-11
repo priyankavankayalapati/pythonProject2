@@ -1,4 +1,4 @@
-print([
+[
   {
     "Name": "priya",
     "age": 23,
@@ -9,4 +9,4 @@ print([
     "age": 23,
     "birthyear": "1999"
   }
-])
+]
