@@ -1,6 +1,6 @@
 import os
 
-text = input("Hello, welcome to my world.")
+text = input("hello")
 
 path = input("welcome")
 def getfiles(path):
